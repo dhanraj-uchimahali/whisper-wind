@@ -21,7 +21,7 @@ Make sure you have Python installed on your system. You can download it from [py
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/Aizonati/whisper-wind.git
+   git clone https://github.com/dhanraj-uchimahali/whisper-wind.git
 2. Install the `pyttsx3` library if you haven't already:
 
    ```bash
